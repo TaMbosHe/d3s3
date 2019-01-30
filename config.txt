@@ -1,6 +1,6 @@
 owner=300306052610523136
-prefix=Se
-game=Seplay
+prefix=8
+game=8play
 stayinchannel=true
 songinstatus=false
 token=NTM4Njg5MDI5ODgxNzI0OTI4.Dy3eyA.XGu0wlKeXMTxF-qZ4Keg6et4kpA
